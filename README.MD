@@ -6,17 +6,24 @@ The Project is to store the user sleep information and to check the user sleep d
 
 ## Technologies Used
 HTML
+
 CSS
+
 JS
+
 NODEJS
+
 EXPRESS JS
+
 CHART JS
+
 MYSQL
+
 HANDLEBARS
 
 ##INSTALLATION
 
-Install the required packages like,MYSQL2,EXPRESS,EXPRESS-SESSION.
+Install the required packages like, MYSQL2, EXPRESS, EXPRESS-SESSION.
 
 ## CONTRIBUTORS
 
