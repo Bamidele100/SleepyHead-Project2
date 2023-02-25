@@ -4,6 +4,10 @@
 
 The Project is to store the user sleep information and to check the user sleep duration. The appilcation allows the user to create an account and when user login to the account,the user has to enter the time of Bed and the wake up time. These information will be stored in the database and the user has the option to view the last 5 days  sleep graph and the sleep information about the user.
 
+## Generated images
+
+![alt text](./public/css/image1.png)
+![alt text](./public/css/image2.png)
 
 ## Technologies Used
 HTML
