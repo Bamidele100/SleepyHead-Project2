@@ -1,4 +1,4 @@
-# PSleepyHead-Project-2 
+# SleepyHead-Project-2 
 
 ## Description
 
@@ -15,17 +15,21 @@ MYSQL
 HANDLEBARS
 
 ##INSTALLATION
+
 Install the required packages like,MYSQL2,EXPRESS,EXPRESS-SESSION.
 
 ## CONTRIBUTORS
 
 MARICAR MARTIN
-BAMIDELE TALABI
+
+DURGADEVI BASKARAN
 
 ## CREDITS
+
 BOOTCAMP Tutors,w3shools,referenced the activites from bootcamp. 
 
 ## LICENSE
+
 None
 
 ## HEROKU LINK
