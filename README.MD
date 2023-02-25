@@ -21,7 +21,7 @@ MYSQL
 
 HANDLEBARS
 
-##INSTALLATION
+## INSTALLATION
 
 Install the required packages like, MYSQL2, EXPRESS, EXPRESS-SESSION.
 
